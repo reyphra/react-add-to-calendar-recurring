@@ -1,16 +1,16 @@
 {
-  "author": "Tien Nguyen",
-  "name": "react-add-to-calendar-recurring",
+  "author": "Reymon",
+  "name": "react-add-to-calendar-recurring-with-until",
   "description": "A simple and reusable add to calendar button component for React",
   "version": "1.0.3",
   "license": "MIT",
   "homepage": "https://tien271.github.io/react-add-to-calendar-recurring/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tien271/react-add-to-calendar-recurring.git"
+    "url": "https://github.com/reyphra/react-add-to-calendar-recurring.git"
   },
   "bugs": {
-    "url": "https://github.com/tien271/react-add-to-calendar-recurring/issues"
+    "url": "https://github.com/reyphra/react-add-to-calendar-recurring/issues"
   },
   "main": "dist/react-add-to-calendar-recurring.min.js",
   "style": "dist/react-add-to-calendar-recurring.min.css",
@@ -23,6 +23,7 @@
     "react",
     "add-to-calendar",
     "add-to-calendar-recurring",
+    "add-to-calendar-recurring-with-until",
     "calendar",
     "event",
     "react-component"
