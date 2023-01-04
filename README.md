@@ -11,6 +11,7 @@ A simple, customizable, and reusable Add to Calendar button component for React 
 
 ## Installation
 
+// customized with added untill to ICS file
 The package can be installed via NPM:
 
 ```
